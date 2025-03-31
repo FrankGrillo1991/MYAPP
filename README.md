@@ -1,1 +1,1 @@
-MYAPP Database developed with Express and SQLite
+MYAPP Database developed with Express.js and SQLite
